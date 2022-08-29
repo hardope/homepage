@@ -34,3 +34,10 @@ body {
 h1 {
     font-family: 'Montserrat', sans-serif
 }
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
